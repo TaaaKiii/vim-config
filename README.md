@@ -13,7 +13,8 @@ $ git clone https://github.com/TaaaKiii/vim-config.git
 
 ## Directory Structure
 
-![スクリーンショット 2024-10-03 134541](https://github.com/user-attachments/assets/fbc36529-3aaa-497e-b0c3-466da197be0a)
+![スクリーンショット 2024-10-03 143932](https://github.com/user-attachments/assets/cda55876-c699-4904-9fdf-5afc68ce3701)
+
 
 Please place the color scheme files in the colors directory.
 
@@ -36,7 +37,8 @@ $ git clone https://github.com/TaaaKiii/vim-config.git
 
 ## ディレクトリ構成
 
-![スクリーンショット 2024-10-03 134541](https://github.com/user-attachments/assets/fbc36529-3aaa-497e-b0c3-466da197be0a)
+![スクリーンショット 2024-10-03 143932](https://github.com/user-attachments/assets/8686cf6e-6ced-4245-8d63-05f9c0175314)
+
 
 としてください。  colorsの中にcolor scheme のファイルを入れてください。
 
