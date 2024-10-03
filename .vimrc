@@ -1,3 +1,10 @@
+"--------------------------------------
+"         Author: Taiki
+"  Last Modified: 2024-10-03
+"        Version: 1.0
+"--------------------------------------
+
+
 "colorscheme----------------------------
 syntax on
 colorscheme molokai 
