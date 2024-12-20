@@ -7,7 +7,7 @@
 
 "colorscheme----------------------------
 syntax on
-colorscheme molokai 
+colorscheme atom-dark 
 "colorscheme----------------------------
 
 " ファイルを上書きする前にバックアップを作ることを無効化
