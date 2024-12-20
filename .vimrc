@@ -155,13 +155,13 @@ call plug#end()
 " startify
 let g:startify_files_number = 5
 let g:startify_list_order = [
-          \ ['♻  最近使ったファイル:'],
+          \ ['♻  recently used files:'],
                   \ 'files',
-                          \ ['♲  最近使ったファイル(カレントディレクトリ下):'],
+                          \ ['♲  Recently used files (under current directory)):'],
                                   \ 'dir',
-                                          \ ['⚑  セッション:'],
+                                          \ ['⚑  Sessions:'],
                                                   \ 'sessions',
-                                                          \ ['☺  ブックマーク:'],
+                                                          \ ['☺  Bookmarks:'],
                                                                   \ 'bookmarks',
                                                                           \ ]
 let g:startify_bookmarks = ["~/.vimrc", "~/.gvimrc"]
@@ -200,4 +200,9 @@ let g:startify_custom_header = s:filter_header([
       \ '⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣄⠀⠀⠀⢀⣸⡟⢷⣤⣀⣀⣀⣤⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀ ',
       \ '⠀⠀⠀         ⠀⠉⠛⠛⠛⠋⠁⠀⠀⠈⠉⠉⠉⠀⠀⠀⠀ ',
       \ '⡀⡀⡀⠀ ',
+      \ '========================================================',
+      \ '                   Welcome to Vim',
+      \ 'The creator of this Vim is Taiki from Chiba University.',
+      \ 'This screen will improve your coding potential.',
+      \ '========================================================',
                                                                                                                                                                   \ ])
