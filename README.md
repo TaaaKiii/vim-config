@@ -40,7 +40,7 @@ $ vi
 ````
 :PlugInstall
 ````
-をすると使用可能になります。
+
 It becomes available for use.
 
 -----------------------------------
