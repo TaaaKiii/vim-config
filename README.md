@@ -42,4 +42,22 @@ $ git clone https://github.com/TaaaKiii/vim-config.git
 
 としてください。  colorsの中にcolor scheme のファイルを入れてください。
 
+ディレクトリ構成が整ったら、このvimはvim-plugを使用してプラグインを管理しています。
+
+vim-plugのインストール
+## Installation
+````
+$ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
+    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+````
+その後
+````
+$ vi
+````
+
+````
+:PlugInstall
+````
+をすると使用可能になります。
+
 
