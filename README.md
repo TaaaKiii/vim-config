@@ -1,7 +1,10 @@
 Vim Kuromi version
 
+Mac
 <img width="1280" alt="Screenshot 2024-12-24 at 10 34 43" src="https://github.com/user-attachments/assets/aaef8cd8-8b09-4b89-a2f3-448f1cc3e539" />
 
+Linux
+![aaa](https://github.com/user-attachments/assets/e8959fd1-6d60-40a9-b1e3-2398bf1d015f)
 
 # English
 
