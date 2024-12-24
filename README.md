@@ -18,6 +18,25 @@ $ git clone https://github.com/TaaaKiii/vim-config.git
 
 Please place the color scheme files in the colors directory.
 
+Once the directory structure is in place, this vim uses vim-plug to manage plugins.
+
+Installing vim-plug
+
+## Installation
+````
+$ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
+    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+````
+after that
+````
+$ vi
+````
+
+````
+:PlugInstall
+````
+をすると使用可能になります。
+It becomes available for use.
 
 -----------------------------------
 
